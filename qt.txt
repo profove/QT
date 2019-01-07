@@ -14,6 +14,7 @@ https://www.qt.io/offline-installers
 http://download.qt.io/archive/
 
 qt在线教程：
+http://www.qter.org/portal.php?mod=view&aid=26
 http://www.qter.org/thread-629-1-1.html
 
 qt 5 api doc:
@@ -88,6 +89,12 @@ this->setCentralWidget(widget);
 
 3、经常发现使用qt自带类的返回字符串会导致程序异常
 如果需要使用到返回字符串的，先拷贝出来再使用，自带类返回的是临时对象
+
+4、QMenuBar()、QMenu()和QAction()的使用
+https://blog.csdn.net/founderznd/article/details/51407909
+
+
+
 
 *****************************************************************************************************************************************************
 
